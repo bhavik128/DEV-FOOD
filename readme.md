@@ -1,3 +1,3 @@
-#DEV ~ FOOD
-#Responsive webpage with HTML, CSS, JavaScript
-#Library used: tailwindcss
+<h1>DEV ~ FOOD</h1> <br>
+<h1>Responsive webpage with HTML, CSS, JavaScript</h1> <br>
+<h1>Library used: tailwindcss</h1>
